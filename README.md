@@ -1,2 +1,2 @@
 # datascience-fatal-police-shooting
-Fatal Police shootings in US
+Analysis of Fatal Police shootings in US
